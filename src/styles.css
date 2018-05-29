@@ -3,12 +3,12 @@ body {
     background-image: url(https://cdn.pixabay.com/photo/2015/09/07/08/22/under-928246_960_720.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    background-color: #ffffff;
 }
 
 #construction {
-    position: absolute;
-    top: 10%;
-    left: 25%;
+    margin: 5% 10% 20% 10%;
+    padding: 5px;
 }
 
 .jumbotron {
