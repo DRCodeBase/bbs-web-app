@@ -1,1 +1,25 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    background-image: url(https://cdn.pixabay.com/photo/2015/09/07/08/22/under-928246_960_720.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#construction {
+    position: absolute;
+    top: 10%;
+    left: 25%;
+}
+
+.jumbotron {
+    margin-bottom: 0px;
+    border: 2px solid #36425D;
+    border-radius: 25px;
+    background-color: #fffffff6;
+    color: #36425D;
+    text-align: center;
+}
+
+#contact {
+    display: inline-block;
+}
